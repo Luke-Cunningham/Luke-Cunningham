@@ -1,8 +1,4 @@
-<div id="badges">
-  <a href="https://www.linkedin.com/in/lukascunningham">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -10,7 +6,9 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge)]("https://www.linkedin.com/in/lukascunningham")
+- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/lukascunningham">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 ### :hammer_and_wrench: Languages and Tools :
 
