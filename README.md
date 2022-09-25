@@ -1,10 +1,6 @@
 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :telescope: Master of Science in Computer Science Candidate at the Colorado School of Mines.
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/lukascunningham">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
