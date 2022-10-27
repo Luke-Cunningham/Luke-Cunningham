@@ -1,6 +1,6 @@
 
 
-- :telescope: Master of Science in Computer Science Candidate at the Colorado School of Mines.
+- :telescope: Master of Science in Computer Science Candidate at the Colorado School of Mines
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/lukascunningham">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
