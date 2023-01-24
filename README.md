@@ -17,8 +17,7 @@
     <img src="https://github.com/devicons/devicon/tree/master/icons/php" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/unity" title="Unity" **alt="Unity" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/trello" title="Trello" **alt="Trello" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" **alt="Trello" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 
 
