@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-- 🔗 How to reach me: <a href="https://www.linkedin.com/in/lukascunningham](https://www.lukecunningham.dev/)">
+- 🔗 Website: <a href="https://www.linkedin.com/in/lukascunningham](https://www.lukecunningham.dev/)">
   </a>
 
 ### Languages and Tools :
