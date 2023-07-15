@@ -1,4 +1,4 @@
-- 💻 Software Developer Intern at HP   /t /t /t      <a href="https://www.linkedin.com/in/lukascunningham"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+- 💻 Software Developer Intern at HP                 <a href="https://www.linkedin.com/in/lukascunningham"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>                      
 
 - 🖥️ Software Engineer at Datava
