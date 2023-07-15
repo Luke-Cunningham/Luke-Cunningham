@@ -3,10 +3,8 @@
 - 🖥️ Software Engineer at Datava
 
 - 🥇 Master of Science in Computer Science at the Colorado School of Mines 4.0/4.0
-
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/lukascunningham">
+<a href="https://www.linkedin.com/in/lukascunningham">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 
 - 🔗 Website: <a href="https://www.linkedin.com/in/lukascunningham](https://www.lukecunningham.dev/)">
   </a>
