@@ -1,8 +1,8 @@
-- 💻 Software Developer Intern at HP                                   
+Software Developer Intern at HP                                   
 
-- 🖥️ Software Engineer at Datava
+🖥️ Software Engineer at Datava
 
-- 🥇 Master of Science in Computer Science at the Colorado School of Mines 4.0/4.0
+Master of Science in Computer Science at the Colorado School of Mines 4.0/4.0
 
 <a href="https://lukecunningham.dev"> <img src="https://img.shields.io/badge/Personal%20Website-8A2BE2&logoColor=blue" alt="My Website"/>
   </a>   
