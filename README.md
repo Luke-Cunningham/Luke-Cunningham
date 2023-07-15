@@ -1,10 +1,10 @@
-- 💻 Software Developer Intern at HP
+- 💻 Software Developer Intern at HP                - 💻 Software Developer Intern at HP                          <a href="https://www.linkedin.com/in/lukascunningham">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 - 🖥️ Software Engineer at Datava
 
 - 🥇 Master of Science in Computer Science at the Colorado School of Mines 4.0/4.0
-<a href="https://www.linkedin.com/in/lukascunningham">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 - 🔗 Website: <a href="https://www.linkedin.com/in/lukascunningham](https://www.lukecunningham.dev/)">
   </a>
