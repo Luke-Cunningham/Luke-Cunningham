@@ -1,12 +1,17 @@
+- 💻 Software Developer Intern at HP
 
+- 🖥️ Software Engineer at Datava
 
-- :telescope: Master of Science in Computer Science Candidate at the Colorado School of Mines
+- 🥇 Master of Science in Computer Science at the Colorado School of Mines 4.0/4.0
 
-- :mailbox: How to reach me: <a href="https://www.linkedin.com/in/lukascunningham">
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/lukascunningham">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-### :hammer_and_wrench: Languages and Tools :
+- 🔗 How to reach me: <a href="https://www.linkedin.com/in/lukascunningham](https://www.lukecunningham.dev/)">
+  </a>
+
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
