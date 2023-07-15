@@ -4,7 +4,7 @@
 
 - 🥇 Master of Science in Computer Science at the Colorado School of Mines 4.0/4.0
 
-<a href="https://lukecunningham.dev"> <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/just%20the%20message-8A2BE2)&logoColor=blue" alt="LinkedIn Badge"/>
+<a href="https://lukecunningham.dev"> <img src="https://img.shields.io/badge/just%20the%20message-8A2BE2&logoColor=blue" alt="LinkedIn Badge"/>
   </a>   
 
   <a href="https://www.linkedin.com/in/lukascunningham"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
