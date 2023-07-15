@@ -7,8 +7,8 @@
 - <a href="https://lukecunningham.dev"> <img src="https://img.shields.io/badge/Personal%20Website-8A2BE2&logoColor=blue" alt="My Website"/>
   </a>   
 
-  - <a href="https://www.linkedin.com/in/lukascunningham"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>    
+- <a href="https://www.linkedin.com/in/lukascunningham"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>    
 
 ### Languages and Tools :
 
